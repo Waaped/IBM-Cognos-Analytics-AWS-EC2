@@ -1,7 +1,7 @@
 # IBM-Cognos-Analytics-AWS-EC2
 IS470 Horrors must not be relived by my successors.
 
-## WARNING: CONTINUEING  YOU HAVE READ THE [DISCLAIMER](https://github.com/Waaped/IBM-Cognos-Analytics-AWS-EC2/blob/master/Disclaimer.md)
+## WARNING: CONTINUING ASSUMES YOU HAVE READ THE [DISCLAIMER](https://github.com/Waaped/IBM-Cognos-Analytics-AWS-EC2/blob/master/Disclaimer.md) IF YOU HAVE NOT, WE ARE STILL NOT LIABLE FOR ANY FINANCIAL, PHYSICAL, COMPUTER AND SOFTWARE DAMAGES. YOU HAVE BEEN WARNED IN GOOD FAITH.
 
 ## Requirments
 * Windows/Linux/Mac Machine(This guide is constructed for windows, but will be highly similar accross all platforms)
