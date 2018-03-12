@@ -1,4 +1,4 @@
-# AWS
+  AWS
 
 1. Login to your AWS student account(Make sure your debit/credit card is linked)
 2. Setup Amazon EC2 Instance of Microsoft Windows Server 2016 Base (Comes With desktop Intereface), with at least 4gb-8gb ram (16 maybe)
@@ -33,4 +33,4 @@ https://www.ibm.com/developerworks/downloads/im/cognosbi/
 20. The instance will restart your server, just reconnect back or wait for it to reboot.
 21. All the sample data is the same as the course data, so go ahead and have fun with it
 
-### If you ever see me on campus you can give me coffee, preferebly that Cold brew stuff that is all the rage.
+If you ever see me on campus you can give me coffee, preferebly that Cold brew stuff that is all the rage.
