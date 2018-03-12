@@ -21,16 +21,26 @@
 18. Say yes if windows prompts you for security concerns
 19. You should see a black screen then a desktop(You are essentially streaming a powerful pc in your laptop or desktop now)
 20. Welcome to the magic that is AWS, You now have a server running!!!!!(Great power, Great Responsibility)
-22. You can see windows server looks just like windows 10, but its not. You would not be able to get cognoes running on your desktop
-23. Trust me i tried, it was humbling.
-24. load up Microsoft edge explorer, and download Firefox.
-25. Windows server will prompt you for every little url or download you click on, be sure to disable the advanced security feautures as it will get more and more tedious. 
-26. Google 'disable windows server enhanced security' if you came this far you should be capable of configuring it
-27. Log in to your IBM developer account
-18. This took me days to find, but here is the old cognos version 10, in our IS470 course 
+21. You can see windows server looks just like windows 10, but its not. You would not be able to get cognoes running on your desktop
+22. Trust me i tried, it was humbling.
+23. load up Microsoft edge explorer, and download Firefox.
+24. Windows server will prompt you for every little url or download you click on, be sure to disable the advanced security feautures as it will get more and more tedious. 
+25. Google 'disable windows server enhanced security' if you came this far you should be capable of configuring it
+26. Log in to your IBM developer account(Be sure your student email is linked with it)
+27. This took me days to find, but here is the old cognos version 10, in our IS470 course 
 https://www.ibm.com/developerworks/downloads/im/cognosbi/
-19. Download the trial, list your adress or your real business as place of business. It's fine if you do not own a business you are now an Independent Contractor.
-20. The instance will restart your server, just reconnect back or wait for it to reboot.
-21. All the sample data is the same as the course data, so go ahead and have fun with it
+28. Download the trial, list your adress or your real business as place of business. It's fine if you do not own a business you are now an Independent Contractor.
+29. The instance will restart your server, just reconnect back or wait for it to reboot.
+30. All the sample data is the same as the course data, so go ahead and have fun with it
+31. Be sure to shut off your instance back in your desktop Right next to the big blue button
+32. Is a drop down menu also in blue, Click "Instance State"-->"Stop"
+33. You will be prompted with a warning, stop it anyway. 
+34. To get it running again, head back to the console and click ec2-> "Instance State"-->"Start"
+
+Be aware of the pricing structure and fees, you can call a AWS representative if you are having trouble.
 
 If you ever see me on campus you can give me coffee, preferebly that Cold brew stuff that is all the rage.
+
+I have a detailed guide on all the IBM course work, we banded together as class and created a survival guide.
+You should all do the same, your network is very important to your professional career, the best networking
+is when you are just hanging out with other cool people, but happen to also help each other professionally.
