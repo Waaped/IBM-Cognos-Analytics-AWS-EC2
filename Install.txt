@@ -1,3 +1,0 @@
-# AWS
-
-1.Login to your AWS student account
