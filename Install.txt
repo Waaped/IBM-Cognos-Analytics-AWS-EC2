@@ -29,8 +29,8 @@
 26. Log in to your IBM developer account(Be sure your student email is linked with it)
 27. This took me days to find, but here is the old cognos version 10, in our IS470 course 
 https://www.ibm.com/developerworks/downloads/im/cognosbi/
-28. Download the trial, list your adress or your real business as place of business. It's fine if you do not own a business you are now an Independent Contractor.
-29. The instance will restart your server, just reconnect back or wait for it to reboot.
+28. Download the trial, list your adress or your real business as place of business. It's fine if you do not own a business you are now an Independent Contractor. Run the setup like any other Windows App.
+29. The the program will restart the instance/server, just reconnect back or wait for it to reboot.
 30. All the sample data is the same as the course data, so go ahead and have fun with it
 31. Be sure to shut off your instance back in your desktop Right next to the big blue button
 32. Is a drop down menu also in blue, Click "Instance State"-->"Stop"
@@ -38,6 +38,8 @@ https://www.ibm.com/developerworks/downloads/im/cognosbi/
 34. To get it running again, head back to the console and click ec2-> "Instance State"-->"Start"
 
 Be aware of the pricing structure and fees, you can call a AWS representative if you are having trouble.
+
+Use the software like you normally would in IS470, with firefox Portable or the older versions of firefox.
 
 If you ever see me on campus you can give me coffee, preferebly that Cold brew stuff that is all the rage.
 
