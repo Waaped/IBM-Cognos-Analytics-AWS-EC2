@@ -15,3 +15,6 @@ FYI you're paying Amazon not me.
 * Time, and some money (Worth it, you can practice at home, literally pennies) 
          
 ## If You can't get these before beginning, there is no hope for you
+
+
+##You could also get a VM going a free solution if your machine has enough RAM for it,
